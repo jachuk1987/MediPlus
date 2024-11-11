@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../Styles//img/mission-img.jpg'
+import '../img/mission-img.jpg'
 
 class Footers extends Component {
   render() {

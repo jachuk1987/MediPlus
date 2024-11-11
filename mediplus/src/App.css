@@ -1417,7 +1417,7 @@ left: 38px;
 font-size: 32px;
 }
 .service-details-inner-left {
-background-image: url("styles/img/signup-bg.jpg");
+background-image: "url('img/signup-bg.jpg')";
 background-size: cover;
 background-position: center center;
 background-repeat: no-repeat;
@@ -1453,7 +1453,7 @@ End service CSS
 Start Testimonials CSS
 ===============================*/
 .testimonials{
-background-image:url('styles/img/testi-bg.jpg');
+background-image: "url('img/testi-bg.jpg')";
 background-size:cover;
 background-position:center;
 background-repeat:no-repeat;
@@ -1756,7 +1756,7 @@ End Pricing Table CSS
 Start Clients CSS
 ==========================*/
 .clients{
-background-image:url('styles/img/client-bg.jpg');
+background-image:"url('img/client-bg.jpg')";
 background-size:cover;
 background-position:center;
 padding:100px 0px;
@@ -1780,7 +1780,7 @@ End Clients CSS
 Start Team CSS
 ======================*/ 
 .team{
-background-image:url('styles/img/testi-bg.jpg');
+background-image: "url('img/testi-bg.jpg')";
 background-size:cover;
 background-position:center;
 background-repeat:no-repeat;
@@ -2414,7 +2414,7 @@ transform:scale(1.2);
 }
 /* Blockqoute */
 .news-single blockquote {
-background-image: url('styles/img/blockqoute-bg.jpg');
+background-image: "url('img/blockqoute-bg.jpg')";
 background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
@@ -2897,7 +2897,7 @@ border-radius: 5px;
 overflow:hidden;
 }
 .login .login-left{
-background-image: url('styles/img/signup-bg.jpg');
+background-image: "url('img/signup-bg.jpg')";
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3052,7 +3052,7 @@ border-radius: 5px;
 overflow:hidden;
 }
 .register .register-left{
-background-image: url('styles/img/signup-bg.jpg');
+background-image: "url('img/signup-bg.jpg')";
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -3743,7 +3743,7 @@ z-index: 1;
 .about-image {
 width: 100%;
 height: 100%;
-background-image: url('styles/img/about-img.jpg');
+background-image: "url('img/about-img.jpg')";
 background-position: center center;
 background-size: cover;
 background-repeat: no-repeat;
@@ -3912,7 +3912,7 @@ z-index: 1;
 .our-mission-image {
 width: 100%;
 height: 100%;
-background-image: url('styles/img/mission-img.jpg');
+background-image: "url('img/mission-img.jpg')";
 background-position: center center;
 background-size: cover;
 background-repeat: no-repeat;
